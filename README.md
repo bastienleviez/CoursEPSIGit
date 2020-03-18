@@ -1,4 +1,7 @@
 # CoursEPSIGit
-Repo pour le cours
+Desktop test
 
-blablabla y'a des modifs 
+18/03/2020 14h50
+
+Initialisation du repository en local (Ouverture dans VSCODE)
+<a href="bastien.leviez.fr">test</a>
